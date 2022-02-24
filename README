@@ -53,8 +53,3 @@ sub forma unei matrice precum imread si sa testez manual testele de la checker, 
 intelege mai bine algoritmul. De asemenea, am apreciat raspunsurile rapide si clare la 
 intrebarile de pe forum, care m-au ajutat si pe mine la implementare.
 
-->Punctaj obtinut local
-
-nearest-neighbour: 30p
-bilinear: 30p
-bicubic : 35p
